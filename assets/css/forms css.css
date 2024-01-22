@@ -1,0 +1,9 @@
+form{
+    margin-block: 55px;
+    font-family: Rockwell;
+    text-align: center;
+    background-color: gold;
+    padding-block: 100px;
+    elevation: above;
+    border-radius: initial;
+}

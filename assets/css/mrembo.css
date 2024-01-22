@@ -1,0 +1,63 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: auto;
+
+
+    td {
+
+        border: 2px solid lightslategray;
+        padding: 8px;
+        font-family: Algerian;
+    }
+
+    th {
+        border: 2px solid lightslategray;
+        padding: 8px;
+        font-size: 30px;
+        font-family: Rockwell;
+    }
+
+    tr:nth-child(even) {
+        background-color: cyan
+    }
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: greenyellow;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    padding: 40px;
+    color: #ac1e1e;
+    display: block;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+}
+
+body {
+    background: url("assets/Images/city.jpg");
+
+}
+
+h1 {
+    text-align: center;
+    color: fuchsia;
+    font-family: Forte;
+    font-size: x-large 25px;
+}
+
+body {
+    background-color:
+}

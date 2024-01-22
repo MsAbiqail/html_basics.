@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e472750-c8e9-4d05-8d76-06a233890c5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Edits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/ARROW.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/RASHFORD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/SPORTING GOODS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/car.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/images (13).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/istockphoto-163332732-612x612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/nike logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/forms css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/mrembo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/myform.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bnb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myform.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ahySqFf73jfzy04iyMSPEb26ir" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Assignment.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.divs.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.forms.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.myform.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.newlinks.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/project001/assets/Images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\project001\assets\Images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e472750-c8e9-4d05-8d76-06a233890c5c" name="Changes" comment="" />
+      <created>1704785110077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704785110077</updated>
+      <workItem from="1704785117144" duration="135000" />
+      <workItem from="1704785300591" duration="247000" />
+      <workItem from="1704873217040" duration="7674000" />
+      <workItem from="1704960939406" duration="4863000" />
+      <workItem from="1704965898614" duration="3405000" />
+      <workItem from="1704997328816" duration="982000" />
+      <workItem from="1704999756430" duration="1284000" />
+      <workItem from="1705046603405" duration="9526000" />
+      <workItem from="1705167681729" duration="708000" />
+      <workItem from="1705251582455" duration="5826000" />
+      <workItem from="1705305484298" duration="8734000" />
+      <workItem from="1705314524291" duration="633000" />
+      <workItem from="1705344964602" duration="1196000" />
+      <workItem from="1705350380053" duration="4803000" />
+      <workItem from="1705392861116" duration="8118000" />
+      <workItem from="1705479161621" duration="1405000" />
+      <workItem from="1705480613238" duration="7556000" />
+      <workItem from="1705566733050" duration="7830000" />
+      <workItem from="1705654023289" duration="1637000" />
+      <workItem from="1705767280212" duration="180000" />
+      <workItem from="1705777780203" duration="4209000" />
+      <workItem from="1705824103703" duration="1426000" />
+      <workItem from="1705860090233" duration="597000" />
+      <workItem from="1705910899634" duration="1982000" />
+      <workItem from="1705918045867" duration="368000" />
+      <workItem from="1705918446218" duration="76000" />
+      <workItem from="1705918563595" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
